@@ -1,0 +1,3 @@
+/cygdrive/d/UC/PPP/First Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/cygdrive/d/UC/PPP/First Project/cmake-build-debug/CMakeFiles/First_Project.dir
+/cygdrive/d/UC/PPP/First Project/cmake-build-debug/CMakeFiles/edit_cache.dir

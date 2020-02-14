@@ -12,14 +12,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="033e5e31-4c25-4ab7-9940-6397d88437a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/First_Project.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/First_Project.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/First_Project.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/First_Project.dir/flags.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/First_Project.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/First_Project.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/main.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,12 +23,28 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="ProjectId" id="1XfRZhYyb1TpPOcNGm3cyuSr5LG" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,37 +73,76 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581435219214</updated>
-      <workItem from="1581435221069" duration="1182000" />
+      <workItem from="1581435221069" duration="5611000" />
+      <workItem from="1581671206280" duration="55000" />
+      <workItem from="1581671343554" duration="30000" />
+      <workItem from="1581696641511" duration="547000" />
     </task>
+    <task id="LOCAL-00001" summary="Updates">
+      <created>1581436461737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1581436461737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updates" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updates" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1581435935227">
+    <state x="393" y="6" key="CommitChangelistDialog2" timestamp="1581436459464">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581435935227" />
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1581436410273">
+    <state x="393" y="6" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1581436459464" />
+    <state x="548" y="154" key="FileChooserDialogImpl" timestamp="1581697181962">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581436410273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1581436410273">
+    <state x="548" y="154" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1581697181962" />
+    <state width="559" height="458" key="GridCell.Tab.0.bottom" timestamp="1581697195580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581436410273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1581436410273">
+    <state width="559" height="458" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1581697195580" />
+    <state width="559" height="458" key="GridCell.Tab.0.center" timestamp="1581697195580">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581436410273" />
-    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1581436410273">
+    <state width="559" height="458" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1581697195580" />
+    <state width="559" height="458" key="GridCell.Tab.0.left" timestamp="1581697195579">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581436410273" />
+    <state width="559" height="458" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1581697195579" />
+    <state width="559" height="458" key="GridCell.Tab.0.right" timestamp="1581697195580">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="559" height="458" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1581697195580" />
+    <state x="629" y="135" key="RollbackChangesDialog" timestamp="1581437583843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="629" y="135" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1581437583843" />
     <state x="186" y="70" key="SettingsEditor" timestamp="1581436159048">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="186" y="70" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1581436159048" />
+    <state x="524" y="258" key="cloudConfig.SelfSettingsDialog" timestamp="1581437824973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="258" key="cloudConfig.SelfSettingsDialog/0.0.1536.824@0.0.1536.824" timestamp="1581437824973" />
+    <state x="412" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1581438248919">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="412" y="67" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1536.824@0.0.1536.824" timestamp="1581438248919" />
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup" timestamp="1581437565525">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" width="672" height="677" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1581437565525" />
+    <state x="431" y="145" key="search.everywhere.popup" timestamp="1581438255643">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1581438255643" />
   </component>
 </project>

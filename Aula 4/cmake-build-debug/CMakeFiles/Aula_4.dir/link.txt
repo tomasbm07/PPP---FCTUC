@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/Aula_4.dir/main.c.o  -o Aula_4.exe -Wl,--out-implib,libAula_4.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

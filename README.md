@@ -1,3 +1,3 @@
-# PPP---FCTUC
+# PPP - Princípios da Programação Procedimental
 ## Cenas da cadeira de PPP
-#### LEI 2019/2010   Tomás Mendes
+#### Tomás Mendes - LEI 2019/2010 - 2º Semestre

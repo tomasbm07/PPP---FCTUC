@@ -74,12 +74,12 @@ preinstall:
 CMakeFiles/Exercicios.dir/all:
 	$(MAKE) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/depend
 	$(MAKE) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/CMakeFiles --progress-num=1,2 "Built target Exercicios"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/CMakeFiles --progress-num=1,2,3 "Built target Exercicios"
 .PHONY : CMakeFiles/Exercicios.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Exercicios.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/CMakeFiles 3
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/Exercicios.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start /cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/CMakeFiles 0
 .PHONY : CMakeFiles/Exercicios.dir/rule

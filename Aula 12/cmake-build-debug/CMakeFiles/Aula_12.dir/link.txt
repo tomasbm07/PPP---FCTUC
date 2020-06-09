@@ -1,0 +1,1 @@
+/usr/bin/cc -Wall -Wextra -g  -Wl,--enable-auto-import CMakeFiles/Aula_12.dir/main.c.o CMakeFiles/Aula_12.dir/maisculas.c.o  -o Aula_12.exe -Wl,--out-implib,libAula_12.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

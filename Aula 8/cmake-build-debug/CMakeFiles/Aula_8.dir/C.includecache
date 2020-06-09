@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UC/PPP/Aula 8/lib.c
+stdio.h
+-
+lib.h
+/cygdrive/d/UC/PPP/Aula 8/lib.h
+
+/cygdrive/d/UC/PPP/Aula 8/lib.h
+

@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Exercicios.dir/lib.c.o"
   "CMakeFiles/Exercicios.dir/main.c.o"
   "Exercicios.exe"
   "Exercicios.pdb"

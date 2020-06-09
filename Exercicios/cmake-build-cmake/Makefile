@@ -123,6 +123,33 @@ Exercicios/fast:
 	$(MAKE) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/build
 .PHONY : Exercicios/fast
 
+lib.o: lib.c.o
+
+.PHONY : lib.o
+
+# target to build an object file
+lib.c.o:
+	$(MAKE) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/lib.c.o
+.PHONY : lib.c.o
+
+lib.i: lib.c.i
+
+.PHONY : lib.i
+
+# target to preprocess a source file
+lib.c.i:
+	$(MAKE) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/lib.c.i
+.PHONY : lib.c.i
+
+lib.s: lib.c.s
+
+.PHONY : lib.s
+
+# target to generate assembly for a file
+lib.c.s:
+	$(MAKE) -f CMakeFiles/Exercicios.dir/build.make CMakeFiles/Exercicios.dir/lib.c.s
+.PHONY : lib.c.s
+
 main.o: main.c.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Exercicios"
 	@echo "... edit_cache"
+	@echo "... lib.o"
+	@echo "... lib.i"
+	@echo "... lib.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

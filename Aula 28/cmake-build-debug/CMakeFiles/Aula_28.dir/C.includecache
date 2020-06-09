@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UC/PPP/Aula 28/main.c
+stdio.h
+-
+ctype.h
+-
+errno.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+

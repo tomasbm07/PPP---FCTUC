@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Aula_8.dir/main.c.o CMakeFiles/Aula_8.dir/lib.c.o  -o Aula_8.exe -Wl,--out-implib,libAula_8.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

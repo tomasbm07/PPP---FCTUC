@@ -34,9 +34,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/UC/PPP/Aula\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aula_5"/>
@@ -52,9 +52,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/UC/PPP/Aula\ 5/cmake-build-debug/Makefile&quot;  VERBOSE=1 Aula_5/fast"/>

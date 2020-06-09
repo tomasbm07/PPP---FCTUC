@@ -6,9 +6,11 @@
 
 #IncludeRegexTransform: 
 
-/cygdrive/d/UC/PPP/Exercicios/main.c
+/cygdrive/d/UC/PPP/Exercicios/lib.c
+lib.h
+/cygdrive/d/UC/PPP/Exercicios/lib.h
 stdio.h
 -
-stdlib.h
--
+
+/cygdrive/d/UC/PPP/Exercicios/lib.h
 

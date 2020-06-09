@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/d/UC/PPP/Exames e Frequencias/Freq. 2018/lib.h
+
+/cygdrive/d/UC/PPP/Exames e Frequencias/Freq. 2018/main.c
+stdio.h
+-
+lib.h
+/cygdrive/d/UC/PPP/Exames e Frequencias/Freq. 2018/lib.h
+

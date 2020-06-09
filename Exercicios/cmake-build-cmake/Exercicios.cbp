@@ -34,9 +34,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/Makefile&quot;  VERBOSE=1 Exercicios"/>
@@ -52,9 +52,9 @@
 				<Option type="1"/>
 				<Option compiler="gcc"/>
 				<Compiler>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/include"/>
 					<Add directory="/usr/include"/>
-					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/7.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/9.2.0/../../../../lib/../include/w32api"/>
 				</Compiler>
 				<MakeCommands>
 					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/Makefile&quot;  VERBOSE=1 Exercicios/fast"/>
@@ -74,7 +74,10 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/d/UC/PPP/Exercicios/cmake-build-cmake/page 2.cpp">
+		<Unit filename="/cygdrive/d/UC/PPP/Exercicios/lib.c">
+			<Option target="Exercicios"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/UC/PPP/Exercicios/lib.h">
 			<Option target="Exercicios"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/UC/PPP/Exercicios/main.c">

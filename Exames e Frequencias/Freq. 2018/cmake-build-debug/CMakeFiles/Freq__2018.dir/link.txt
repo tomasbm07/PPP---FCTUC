@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/Freq__2018.dir/main.c.o CMakeFiles/Freq__2018.dir/lib.c.o  -o Freq__2018.exe -Wl,--out-implib,libFreq__2018.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

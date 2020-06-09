@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "lib.h"
 
 int main() {
     //idk();
@@ -19,7 +20,8 @@ int main() {
     //ex14();
     //ex15();
     //ex16();
-    ex17();
+    //ex17();
+    amigos(220, 284);
 
     return 0;
 }

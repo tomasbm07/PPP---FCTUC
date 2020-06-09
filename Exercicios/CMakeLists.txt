@@ -3,4 +3,4 @@ project(Exercicios C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(Exercicios main.c "cmake-build-cmake/page 2.cpp")
+add_executable(Exercicios main.c lib.c lib.h)

@@ -1,0 +1,40 @@
+(Team # Final Score)
+---------Top 2 Scores----------
+Cornwall Cream Legs # 79
+Cream Cockroaches # 79
+Cream Goats # 78
+-------------------------------
+
+---------Bot 2 Scores----------
+Cowardly Cockroaches # 64
+Spiteful Snakes # 67
+Cornwall Goats # 67
+-------------------------------
+
+----------Leaderboard----------
+Cornwall Cream Legs # 79
+Cream Cockroaches # 79
+Cream Goats # 78
+Cowardly Goats # 77
+Cowardly Hotspurs # 77
+Cornwall Athletic # 75
+Cream Snakes # 75
+Popular Goats # 74
+Spiteful Goats # 74
+Popular Hotspurs # 73
+Cream Hotspurs # 73
+Popular Cockroaches # 72
+Cornwall United # 72
+Spiteful Cockroaches # 71
+Cowardly Snakes # 71
+Cornwall Cream Jackets # 71
+Popular Snakes # 70
+Cornwall Cockroaches # 69
+Spiteful Hotspurs # 68
+Cornwall Creams # 68
+Cornwall Snakes # 68
+Cornwall Hotspurs # 68
+Cornwall Goats # 67
+Spiteful Snakes # 67
+Cowardly Cockroaches # 64
+-------------------------------

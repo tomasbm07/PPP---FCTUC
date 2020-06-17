@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/tomas/Desktop/Projeto PPP/Lista.c
+Lista.h
+/cygdrive/c/Users/tomas/Desktop/Projeto PPP/Lista.h
+
+/cygdrive/c/Users/tomas/Desktop/Projeto PPP/Lista.h
+stdio.h
+-
+ctype.h
+-
+errno.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+
+/cygdrive/c/Users/tomas/Desktop/Projeto PPP/main.c
+Lista.h
+/cygdrive/c/Users/tomas/Desktop/Projeto PPP/Lista.h
+
